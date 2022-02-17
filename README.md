@@ -66,8 +66,7 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 
 <h2 align="center">⚡ Recent GitHub Activity</h2>
 <p align="center">
-<a href="https://github.com/ACM-IPEC-ORG"><img alt="ACM-IPEC-ORG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ACM-IPEC&custom_title=
-ACM-IPEC%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/ACM-IPEC-ORG"><img alt="ACM-IPEC-ORG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ACM-IPEC&custom_title=ACM-IPEC%27s%20Contribution%20Graph&theme=react-dark" /></a>
 </p>
 
 

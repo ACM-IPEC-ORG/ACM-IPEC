@@ -27,6 +27,39 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 -   SIG Foundation 🐣
 -   SIG Tech 📀	
 
+<h1 align="center"><strong>Our Team</strong></h2>
+
+## Head of Departments
+- Dr. Vijai Singh(Computer Science and Enginering)
+- Dr. Pooja Tripathi(Information Technology)
+## Conveners
+- Mr. Pranshu Saxena
+- Dr. Tripti Sharma
+- Ms. Chhavi Sharma
+## Prime Core Members
+- Devansh Mittal(Chair Person)
+- Ajay Pal(Vice Chair Person)
+- Anubhav Chitragupta(WebMaster)
+- Anisha Aggarwal(General Secretary)
+- Abhishek Singh(Membership Chair)
+- Aditi Yadav(Treasurer)
+- Harsh Chaudhary(Technical Head)
+- Ayushi Jain(Event Head)
+- Vibhuti Mandral(Documentation Head)
+- Swati Raman(Joint Secretary)
+## Core Members
+- Priyansh(SIG WEB HEAD)
+- Anjali Mathur(SIG WEB HEAD)
+- Atif Moin(SIG GRAPH HEAD)
+- Ankur Kumar Kushwaha(SIG SOFT HEAD)
+- Junaid Siddiqui(SIG PYTHON HEAD)
+- Vaibhav Srivastava(SIG CLOUD HEAD)
+- Gayatri Sharma(SIG FOUNDATION HEAD)
+- Kanupriya(SIG TECH HEAD)
+- Poorna Asthana(Membership Coordinator)
+- Deepanshu Mishra(Membership Coordinator)
+- Vansh Gupta(Social Media Head)
+- Praveen Kumar Verma(Documentation Head)
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>

@@ -56,10 +56,23 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 - Vaibhav Srivastava(SIG CLOUD HEAD)
 - Gayatri Sharma(SIG FOUNDATION HEAD)
 - Kanupriya(SIG TECH HEAD)
-- Poorna Asthana(Membership Coordinator)
-- Deepanshu Mishra(Membership Coordinator)
-- Vansh Gupta(Social Media Head)
-- Praveen Kumar Verma(Documentation Head)
+- Poorna Asthana(MEMBERSHIP COORDINATOR)
+- Deepanshu Mishra(MEMBERSHIP COORDINATOR)
+- Vansh Gupta(SOCIAL MEDIA HEAD)
+- Praveen Kumar Verma(DOCUMENTATION HEAD)
+## **Sub Heads**
+- Rishabh Jian(SIG WEB SUB-HEAD)
+- <a href="https://github.com/anjaliaryain">Anjali Arya(SIG WEB SUB-HEAD)</a>
+- Diya Gupta(SIG GRAPH SUB-HEAD)
+- Aman Gautam(SIG SOFT SUB-HEAD)
+- <a href="https://github.com/Akshay2002Singh">Akshay Singh(SIG PYTHON SUB-HEAD)</a>
+- <a href="https://github.com/ShikharPurwar">Shikhar Purwar(SIG CLOUD SUB-HEAD)</a>
+- <a href="https://github.com/Kavvya1072">Kavya Varshney(SIG FOUNDATION SUB-HEAD)</a>
+- Tushar Pandey(SIG TECH SUB-HEAD)
+- <a href="https://github.com/vivek-raj-singh">Vivek Raj Singh(MEMBERSHIP COORDINATOR)</a>
+- Kanishka Dogra(MEMBERSHIP COORDINATOR)
+- Rajya Lakshmi(SOCIAL MEDIA SUB-HEAD)
+- <a href="https://github.com/iamyatinsinghal">Yatin Singhal(DOCUMENTATION SUB-HEAD)</a>
 
 ## **Connect with me [here](https://github.com/ACM-IPEC-ORG)**
 

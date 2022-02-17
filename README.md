@@ -78,7 +78,7 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 </p>
 
 
-<p align ="center"><samp><strong>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+<p align ="center"><samp><strong>Make it work, make it right, make it fast.
 <br>
-– Martin Fowler</strong></samp></p>
+– Kent Beck</strong></samp></p>
 

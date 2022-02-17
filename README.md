@@ -29,14 +29,14 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 
 <h1 align="center"><strong>Our Team</strong></h2>
 
-## Head of Departments
+## **Head of Departments**
 - Dr. Vijai Singh(Computer Science and Enginering)
 - Dr. Pooja Tripathi(Information Technology)
-## Conveners
+## **Conveners**
 - Mr. Pranshu Saxena
 - Dr. Tripti Sharma
 - Ms. Chhavi Sharma
-## Prime Core Members
+## **Prime Core Members**
 - Devansh Mittal(Chair Person)
 - Ajay Pal(Vice Chair Person)
 - Anubhav Chitragupta(WebMaster)
@@ -47,7 +47,7 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 - Ayushi Jain(Event Head)
 - Vibhuti Mandral(Documentation Head)
 - Swati Raman(Joint Secretary)
-## Core Members
+## **Core Members**
 - Priyansh(SIG WEB HEAD)
 - Anjali Mathur(SIG WEB HEAD)
 - Atif Moin(SIG GRAPH HEAD)

@@ -48,11 +48,11 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 - Vibhuti Mandral(Documentation Head)
 - Swati Raman(Joint Secretary)
 ## **Core Members**
-- Priyansh(SIG WEB HEAD)
+- <a href="https://github.com/priyanshkulshrestha">Priyansh(SIG WEB HEAD)</a>
 - Anjali Mathur(SIG WEB HEAD)
 - Atif Moin(SIG GRAPH HEAD)
-- Ankur Kumar Kushwaha(SIG SOFT HEAD)
-- Junaid Siddiqui(SIG PYTHON HEAD)
+- <a href="https://github.com/ankurk10">Ankur Kumar Kushwaha(SIG SOFT HEAD)</a>
+- <a href="https://github.com/MAX-EINSTEIN">Junaid Siddiqui(SIG PYTHON HEAD)</a>
 - Vaibhav Srivastava(SIG CLOUD HEAD)
 - Gayatri Sharma(SIG FOUNDATION HEAD)
 - Kanupriya(SIG TECH HEAD)

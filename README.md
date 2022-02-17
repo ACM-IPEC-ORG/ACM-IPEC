@@ -3,13 +3,13 @@
  <strong> <samp>Association for Computing Machinery</samp> </strong></a> 
 </h1>
 <h2 align='center'>
- <strong><samp>IPEC | Student Chapter</samp> </strong> 
+ <strong><samp>IPEC | STUDENT CHAPTER</samp></strong> 
 </h2>
 <p align="center">
 <img src="./assets/animation_500_kxa883sd.gif" width="600" height="400" >
 </p>
 
-<h2 align="center"><strong>Best Computer Science Society of IPEC</strong></h2>
+<h1 align="center"><strong>Best Computer Science Society of IPEC</strong></h1>
 <p>
 ACM, the Association for Computing Machinery founded in New York on September 15, 1947, is the world’s largest educational and scientific society connecting and convening the researchers, educators and professionals to apportion resources, inspire discourse and scrutinize and address the field’s challenges.
 </p>

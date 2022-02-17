@@ -28,31 +28,6 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 -   SIG Tech 📀	
 
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/50/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <!-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> -->
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-</p>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-</p>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
-</p>
-
-
 ## **Connect with me [here](https://github.com/ACM-IPEC-ORG)**
 
 <p align="center">

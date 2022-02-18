@@ -63,7 +63,7 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 ## **Sub Heads**
 - Rishabh Jian(SIG WEB SUB-HEAD)
 - <a href="https://github.com/anjaliaryain">Anjali Arya(SIG WEB SUB-HEAD)</a>
-- Diya Gupta(SIG GRAPH SUB-HEAD)
+- <a href="https://github.com/Diya012">Diya Gupta(SIG GRAPH SUB-HEAD)</a>
 - Aman Gautam(SIG SOFT SUB-HEAD)
 - <a href="https://github.com/Akshay2002Singh">Akshay Singh(SIG PYTHON SUB-HEAD)</a>
 - <a href="https://github.com/ShikharPurwar">Shikhar Purwar(SIG CLOUD SUB-HEAD)</a>
@@ -71,7 +71,7 @@ ACM, the Association for Computing Machinery founded in New York on September 15
 - Tushar Pandey(SIG TECH SUB-HEAD)
 - <a href="https://github.com/vivek-raj-singh">Vivek Raj Singh(MEMBERSHIP COORDINATOR)</a>
 - Kanishka Dogra(MEMBERSHIP COORDINATOR)
-- Rajya Lakshmi(SOCIAL MEDIA SUB-HEAD)
+- <a href="https://github.com/Rajyalakshmi41">Rajya Lakshmi(SOCIAL MEDIA SUB-HEAD)</a>
 - <a href="https://github.com/iamyatinsinghal">Yatin Singhal(DOCUMENTATION SUB-HEAD)</a>
 
 ## **Connect with me [here](https://github.com/ACM-IPEC-ORG)**
